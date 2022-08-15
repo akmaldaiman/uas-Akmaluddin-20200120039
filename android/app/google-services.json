@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539823018924",
+    "project_id": "audio-player-app-ce0aa",
+    "storage_bucket": "audio-player-app-ce0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539823018924:android:c75d245b3d61a9af2f2009",
+        "android_client_info": {
+          "package_name": "com.example.audio_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539823018924-9v6388u02j89km8lhiop1152ld0meheb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.audio_flutter_app",
+            "certificate_hash": "51a3fb3daa0f9b86d7e4d0f9beac602d1a23c913"
+          }
+        },
+        {
+          "client_id": "539823018924-vfgi04qhqe3k6tf86t3ia0v1l0qqd085.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxAsvqRYnnK6BQO9S5HTBPjR0MkBWmF6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539823018924-vfgi04qhqe3k6tf86t3ia0v1l0qqd085.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

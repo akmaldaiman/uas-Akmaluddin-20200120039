@@ -1,0 +1,32 @@
+name: audio_flutter_app
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies: 
+  firebase_core: 1.20.1
+  firebase_analytics: any
+  firebase_auth: 3.6.3
+  cloud_firestore: ^3.1.13 
+  cloud_firestore_web: ^2.6.13 
+  cupertino_icons: any
+  file_picker: any
+  firebase_storage: 10.3.5
+  provider: any
+  audioplayers: 0.18.3
+  firebase_auth_web: any
+  ionicons: 0.2.1
+  google_sign_in: 5.4.1
+  get: ^4.6.5
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
